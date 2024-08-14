@@ -1,6 +1,6 @@
-# Defcon 32 Anyone Can Hack IoT - A Beginner's Guide to Hacking Your First IoT Device
+# Anyone Can Hack IoT - A Beginner's Guide to Hacking Your First IoT Device
 
-Welcome everyone, here you'll find a copy of the slides from my Defcon talk. 
+Welcome everyone, here you'll find a copy of the slides from my Defcon 32 talk on IoT hacking.
 
 ## Additional IoT Hacking Resources
 
