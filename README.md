@@ -2,6 +2,9 @@
 
 Welcome everyone, here you'll find a copy of the slides from my Defcon 32 talk on IoT hacking.
 
+## Recording of Talk
+https://youtu.be/YPcOwKtRuDQ?si=rqkVp8eKWifwubPE 
+
 ## Additional IoT Hacking Resources
 
 My Course: https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking
